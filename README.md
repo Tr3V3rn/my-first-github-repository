@@ -1,4 +1,4 @@
 # my-first-github-repository
 This is my first GitHub Repo
 
-I just made a change. This is so much fun learning. This file was modified locally.
+This line was modified manually during conflicts resolution
